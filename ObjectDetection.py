@@ -5,6 +5,7 @@ from gtts import gTTS
 from playsound import playsound 
 
 print("Hello, World!")
+print("KIT")
 video = cv2.VideoCapture(0)
 labels = []
 
