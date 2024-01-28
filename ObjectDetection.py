@@ -4,7 +4,7 @@ from cvlib.object_detection import draw_bbox
 from gtts import gTTS 
 from playsound import playsound 
 
-print("Hello WOrld")
+print("Hello, World!")
 video = cv2.VideoCapture(0)
 labels = []
 
